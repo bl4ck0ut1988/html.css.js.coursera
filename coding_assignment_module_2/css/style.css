@@ -4,6 +4,9 @@
 
 section {
 	background-color: lightgrey;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 @media (max-width: 992px) {
