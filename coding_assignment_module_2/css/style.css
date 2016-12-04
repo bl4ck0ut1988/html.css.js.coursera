@@ -26,6 +26,8 @@ h1 {
 	margin: 10px;
 	border: 1px solid black;
 	background-color: #B0BEC5;
+	overflow-y: auto;
+	overflow-x: hidden;
 }
 
 .section-title {
